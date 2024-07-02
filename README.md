@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! 👋<br><br>I'm Bogdan Teodorov, a passionate student set to graduate in the summer of 2024. <br>My love for creating captivating 2D/3D games on Unity knows no bounds, and I thrive on the challenges and excitement that game development brings. <br>With a keen interest in back-end development as well, I'm eager to explore new projects and contribute my skills to innovative ventures. I'm always on the lookout for interesting opportunities and projects to dive into.<br>Let's build something amazing together! 🚀
+Hello there! 👋<br><br>I'm Bogdan Teodorov, a fresh graduate. <br>My love for creating captivating 2D/3D games on Unity knows no bounds, and I thrive on the challenges and excitement that game development brings. <br>With a keen interest in back-end development, I'm also eager to explore new projects and contribute my skills to innovative ventures. I'm always looking for interesting opportunities and projects to dive into.<br>Let's build something amazing together! 🚀
 
 
 ## 🌐 Socials:
